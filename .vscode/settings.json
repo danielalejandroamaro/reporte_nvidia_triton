@@ -1,0 +1,3 @@
+{
+    "todomd.activatePattern": "**/{todo,someday,todo.archive}.{md,txt}"
+}
