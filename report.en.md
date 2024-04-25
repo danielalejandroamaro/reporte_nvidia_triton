@@ -259,9 +259,8 @@ cropped_images = detection_postprocessing(
 ```
 
 This function encompasses all the image post-processing and this is what it returns:
-![
 
-post-processed image](/post-processing/1.png)
+![post-processed image](/post-processing/1.png)
 
 As can be seen, this image must have a specific size to enter the text recognition layer, all of which was considered in the method detection_postprocessing.
 
